@@ -42,7 +42,7 @@ sudo pacman -S --needed base-devel cmake qt6-base
 ## Install
 
 ```bash
-git clone <repository-url> kakaotalk-wayland-sni
+git clone https://github.com/KyongSik-Yoon/kakaotalk-wayland-sni.git
 cd kakaotalk-wayland-sni
 ./scripts/install.sh
 ```
